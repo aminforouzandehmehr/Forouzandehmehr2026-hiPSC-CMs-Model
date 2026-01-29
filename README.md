@@ -25,3 +25,5 @@ bioRxiv (2025), https://doi.org/10.1101/2025.06.27.662066.
 - `ISO_ss_1Hz_yfinal.mat` — Isoproterenol steady-state initial conditions from 1 Hz pacing
 - `BLEB_ss_spnt_yfinal.mat` — Blebbistatin steady-state initial conditions from spontaneous pacing
 - `BLEB_ss_1Hz_yfinal.mat` — Blebbistatin steady-state initial conditions from 1 Hz pacing
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18410201.svg)](https://doi.org/10.5281/zenodo.18410201)
