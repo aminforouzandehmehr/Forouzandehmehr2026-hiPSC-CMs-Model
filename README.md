@@ -21,7 +21,6 @@ bioRxiv (2025), https://doi.org/10.1101/2025.06.27.662066.
 
 - `spnt_ss_control_yfinal.mat` — Control-model steady-state initial conditions from spontaneous pacing 
 - `1Hz_ss_control_yfinal.mat` — Control-model steady-state initial conditions from 1 Hz pacing
-- `1.5Hz_ss_control_yfinal.mat` — Control-model steady-state initial conditions from 1.5 Hz pacing
 - `ISO_ss_spnt_yfinal.mat` — Isoproterenol steady-state initial conditions from spontaneous pacing
 - `ISO_ss_1Hz_yfinal.mat` — Isoproterenol steady-state initial conditions from 1 Hz pacing
 - `BLEB_ss_spnt_yfinal.mat` — Blebbistatin steady-state initial conditions from spontaneous pacing
