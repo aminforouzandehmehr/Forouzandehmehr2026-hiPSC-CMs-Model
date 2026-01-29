@@ -9,7 +9,7 @@ bioRxiv (2025), https://doi.org/10.1101/2025.06.27.662066.
 
 ### Key scripts
 
-- `hiMCES2025.m` — Model ODEs  
+- `hiMCES2026.m` — Model ODEs  
 - `MasterCompute_hiMCES.m` — Integrates the model with standard plots
 - `passiveForces.m` — The function calculating the passive forces for the myofilament
 - `fpca.m` — Simulates Tension-Ca response calling myofilament.m
