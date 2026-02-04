@@ -101,7 +101,7 @@ if ISOFlag == 1
 
     dose_nM = 1e4;  EC50_nM = 30;  nH = 1.2;
     isoLevel = (dose_nM^nH) / (EC50_nM^nH + dose_nM^nH);
-    isoLevel = 1;   % saturated effect (keep if that's what you want)
+    isoLevel = 1;   % saturated effect
 
     % Tunable gains
     s.ICaL = 0.3;  s.RyR  = 0.3;  s.IKs  = 0.5;  s.IKr = 0.3;
