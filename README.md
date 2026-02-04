@@ -3,7 +3,7 @@ A computational model of human iPSC cardiomyocytes electro-mechano-energetics wi
 
 This repository contains code associated with:
 
-W. Li, M.A. Forouzandehmehr, D. McLeod, M.R. Pozo, Y.W. Heinson, M.W. Kay, Z. Li, S. Morotti, E. Entcheva, Response of human iPSC-cardiomyocytes to adrenergic drugs assessed by high-throughput pericellular oxygen measurements and computational modeling, J Mol Cell Cardiol Plus (2026) 100834. https://doi.org/10.1016/j.jmccpl.2026.100834.
+W. Li, M.A. Forouzandehmehr, D. McLeod, M.R. Pozo, Y.W. Heinson, M.W. Kay, Z. Li, S. Morotti, E. Entcheva, Response of human iPSC-cardiomyocytes to adrenergic drugs assessed by high-throughput pericellular oxygen measurements and computational modeling, J. Mol. Cell. Cardiol. Plus 2026;100834. https://doi.org/10.1016/j.jmccpl.2026.100834.
 
 ### Key scripts
 
