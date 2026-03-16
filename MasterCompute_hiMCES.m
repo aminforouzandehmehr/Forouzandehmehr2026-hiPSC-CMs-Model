@@ -1,5 +1,5 @@
 %===============================================================================
-% Version JMCC PLUS (DOI: TBD)
+% Version JMCC PLUS (DOI: https://doi.org/10.1016/j.jmccpl.2026.100834)
 % Author: Amin Forouzandehmehr
 %
 % PURPOSE:
